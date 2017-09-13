@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]">
+  <listeners>
+    <listener class-name="com.pack.test.RetryListener"/>
+  </listeners>
+  <test name="test(failed)(failed)">
+    <classes>
+      <class name="com.pack.test.TestNGExampleTests">
+        <methods>
+          <include name="verifyForgotPasswordPage"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.pack.test.TestNGExampleTests -->
+    </classes>
+  </test> <!-- test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

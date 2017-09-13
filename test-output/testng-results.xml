@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="214" started-at="2017-08-01T09:24:30Z" finished-at="2017-08-01T09:24:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="214" started-at="2017-08-01T09:24:30Z" finished-at="2017-08-01T09:24:30Z">
+      <class name="com.phantomJs.test.DataDrivernTesting">
+        <test-method status="PASS" signature="main(java.lang.String, java.lang.String)[pri:0, instance:com.phantomJs.test.DataDrivernTesting@18067a5]" name="main" duration-ms="7" started-at="2017-08-01T14:54:30Z" data-provider="loginCredential" finished-at="2017-08-01T14:54:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rampass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="main(java.lang.String, java.lang.String)[pri:0, instance:com.phantomJs.test.DataDrivernTesting@18067a5]" name="main" duration-ms="1" started-at="2017-08-01T14:54:30Z" data-provider="loginCredential" finished-at="2017-08-01T14:54:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shyam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shyampass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="main(java.lang.String, java.lang.String)[pri:0, instance:com.phantomJs.test.DataDrivernTesting@18067a5]" name="main" duration-ms="1" started-at="2017-08-01T14:54:30Z" data-provider="loginCredential" finished-at="2017-08-01T14:54:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sita]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sitapass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="main(java.lang.String, java.lang.String)[pri:0, instance:com.phantomJs.test.DataDrivernTesting@18067a5]" name="main" duration-ms="1" started-at="2017-08-01T14:54:30Z" data-provider="loginCredential" finished-at="2017-08-01T14:54:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[geeta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[geetapass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- com.phantomJs.test.DataDrivernTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

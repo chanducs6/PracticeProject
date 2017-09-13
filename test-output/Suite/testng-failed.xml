@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [suite]">
+  <test name="Regression 2">
+    <classes>
+      <class name="com.pack.test.HtmlReportGeneration"/>
+    </classes>
+  </test> <!-- Regression 2 -->
+</suite> <!-- Failed suite [suite] -->
